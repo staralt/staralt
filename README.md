@@ -4,12 +4,12 @@
 
 Do not disturb time :)
 ```
-11:00 PM ~ 07:00 AM (UTC+9, KST) 🌙
+11:00 PM - 07:00 AM (UTC+9, KST) 🌙
 ```
 
 🧑🏻‍💻 Working at:
 ```
-09:00 AM ~ 05:00 PM (UTC+9, KST) 💼
+09:00 AM - 05:00 PM (UTC+9, KST) 💼
 ```
 
 <!--
